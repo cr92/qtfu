@@ -1,0 +1,15 @@
+
+SINCE THERE ARE NO ASYNC DATABASE/API CALLS IN THE APPLIATION,
+ERROR HANDLING CALLLBACKS/PROMISES HAVE BEEN OMITTED TO SIMPLIFY CODE
+
+3rd PARTY LIBRARIES KEPT AT MINIMUM
+https://insomnia.rest/
+
+NodeJS v6.11.1
+Ubuntu 16.04
+
+To run server:
+    npm run start
+
+To run test:
+    npm run test
